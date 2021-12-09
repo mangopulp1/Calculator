@@ -1,2 +1,2 @@
 # calculatorApp
-Calculator app 
+Calculator package use it in your own project how ever you like.
