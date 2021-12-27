@@ -1,2 +1,2 @@
 # Calculator
-Calculator file
+Calculator package
