@@ -7,7 +7,7 @@ Calculator package
 
 # For importing this package into your project
 
-`import { # function name } from 'calculator2' `
+`import { function name } from 'calculator2' `
 
 JavaScript version of this code is available in form of a package.
 
